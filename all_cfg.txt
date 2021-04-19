@@ -1,0 +1,33 @@
+### 10.11.1.5  ################################################################
+
+!
+interface gpon-olt_1/1/1
+  onu 1 type ZTE-F601 sn DD16B3D8AAAA
+  onu 2 type ZTE-F601 sn ZTEGC147AAAA
+  onu 3 type ZTE-F601 sn ZTEGC6AFFFFF
+!
+
+!
+interface gpon-olt_1/1/2
+  onu 1 type ZTE-F601 sn ZTEGC510CBBB
+  onu 2 type ZTE-F601 sn ZTEGC1529999 
+!
+
+### 10.11.2.5  ################################################################
+
+!
+interface gpon-olt_1/1/1
+  onu 1 type ZTE-F601 sn DD16B3D8CCCC
+  onu 2 type ZTE-F601 sn ZTEGC147FFFF
+  onu 3 type ZTE-F601 sn ZTEGC6AF2222
+!
+
+!
+interface gpon-olt_1/1/2
+  onu 1 type ZTE-F601 sn ZTEGC5111111
+  onu 2 type ZTE-F601 sn ZTEGC1529AAA 
+!
+
+
+
+И Т.Д...
